@@ -1,4 +1,4 @@
-
+--comments here
 DECLARE @Orientation VARCHAR(50)
 SET @Orientation = 'H'; --COLUMN NAMES AS COLUMNS
 --SET @Orientation = 'V'; --COLUMNS NAME AS ROWS
